@@ -19,14 +19,14 @@ On macOS (tested on macOS 26 Tahoe / M1), if you accidentally unplug an external
 ### 1. Download the script
 
 ```bash
-curl -O https://raw.githubusercontent.com/<your-username>/<your-repo>/main/fix_disk_lock.sh
+curl -O https://raw.githubusercontent.com/rahulpahuja/unlock-disk/main/fix_disk_lock.sh
 ```
 
 Or clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/rahulpahuja/unlock-disk.git
+cd unlock-disk
 ```
 
 ### 2. Make it executable (one-time setup)
@@ -95,4 +95,4 @@ To avoid the issue altogether:
 
 ## License
 
-MIT
+Apache-2.0
